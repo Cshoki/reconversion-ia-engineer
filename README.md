@@ -4,3 +4,7 @@ Camino de reconversión de Analista de datos a IA Engineer - Proyectos y ejercic
 - Variables (str, int, bool)
 - Condicionales if/elif/else
 - Ejercicio: clasificación de rendimiento de ventas
+## Día 2
+- for
+- listas
+- combinación for + if 
