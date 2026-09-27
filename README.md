@@ -7,4 +7,7 @@ Camino de reconversión de Analista de datos a IA Engineer - Proyectos y ejercic
 ## Día 2
 - for
 - listas
-- combinación for + if 
+- combinación for + if
+- acumuladores
+- índices
+- flags
